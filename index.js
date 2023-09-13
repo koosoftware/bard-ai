@@ -17,7 +17,7 @@ class Bard {
     verbose = false;
 
     // Fetch function
-    #fetch = fetch;
+    #fetch = undefined;
 
     constructor(cookie, config) {
         // Register some settings
