@@ -367,4 +367,4 @@ class Bard {
     }
 }
 
-export default Bard;
+module.exports = Bard;
