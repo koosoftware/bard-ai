@@ -1,4 +1,4 @@
-class Bard {
+export class Bard {
     static JSON = "json";
     static MD = "markdown";
 
@@ -366,5 +366,3 @@ class Bard {
         return new Chat();
     }
 }
-
-export default Bard;
