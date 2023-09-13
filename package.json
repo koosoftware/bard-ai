@@ -15,7 +15,6 @@
     },
     "author": "EvanZhouDev",
     "license": "GPL-3.0",
-    "type": "module",
     "repository": {
         "type": "git",
         "url": "https://github.com/EvanZhouDev/bard-ai.git"
